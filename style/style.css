@@ -137,18 +137,18 @@ iframe {
 
 /* FOOTER */
 .licence a {
-	color: #ffffff;
+	color: black;
 	text-decoration: underline;
 }
 
 .licence {
 	background-color: #8b76d2;
-	padding: 10px;
-	color: white;
-	font-size: 0.8em;
+	padding: 5ch 10px;
+	color: black;
+	font-size: 1.2em;
 	text-align: center;
 }
 
 .licence img {
-	width: 50px;
+	width: 5vw;
 }
